@@ -1,0 +1,6 @@
+numpy>=1.22
+scipy>=1.8
+matplotlib>=3.5
+customtkinter>=5.2
+sounddevice>=0.4.6
+soundfile>=0.12
